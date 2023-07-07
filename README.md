@@ -1,12 +1,15 @@
 ![image](https://github.com/Nelsonkim44/King-County-Housing-Analysis-Project/assets/133017240/329445dd-e455-4322-aa62-b499949351f6)
 1. Introduction
-(i) Objective
+   
+(i) Objectives
+
 The aim of this project is to analyze King County housing data to find out which features that affect the sale price of houses in the area. I shall utilize linear regression model to achieve this. As a result, I will be able to find out the crucial features which can be considered when doing renovations so that the Housing Agents can get better prices from the sale of houses.After the analysis I will put down couple of recommendations and hand them over to the House Agent who has contracted me so that they can boost the price and sales volumes of the houses in the King County WA.
 
 (ii) Problem Statement
 I have been hired to advice a real estate agency on whether home renovations have any significant impact on the value of homes. There are set of features to be considered when doing the renovations so I have to do statistical analysis and come up with a list of them which have the greatest impact on the house prices.
 
 (iii) Business Understanding
+
 Real estate industry is a capital intensive industry which requires thorough analysis and planning at various stages. Various housing Agencies lack technical knowledge on some data analysis problems and that is why I have been contracted by this Housing Agency to help them analyse the crucial factors they should consider most when doing house renovations. Moreover, the Housing agency may be interested in advising their clients who are home owners and would like to understand more on ways of maintaining their homes. The agency will not only use the model I will develop to know the key renovation features but also use it to determine future pricing. The real estate industry is very competitive and thus this Agency will rely so much on this report in terms of understanding the best house features which most buyers prefer based on the King county Data provided. Consequently, they will have a competitive edge in terms of quality home construction, upgrding and also valuation.
 
 2.Data Understanding
