@@ -36,3 +36,4 @@ lat - Lattitude
 long - Longitude
 sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+![image](https://github.com/Nelsonkim44/King-County-Housing-Analysis-Project/assets/133017240/d2519641-1d27-4013-959e-ece6ac357c74)
