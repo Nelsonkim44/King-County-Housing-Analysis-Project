@@ -37,3 +37,31 @@ long - Longitude
 sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 ![image](https://github.com/Nelsonkim44/King-County-Housing-Analysis-Project/assets/133017240/d2519641-1d27-4013-959e-ece6ac357c74)
+
+Conclusion
+
+Houses sold between February and April Fetched higher prices.
+
+For every one unit increase in the number of bathrooms, the predicted price of the house increases by 4.33%, holding all other variables constant.
+
+For every one unit increase in the square footage of living space, the predicted price of the house increases by 27.85%, holding all other variables constant.
+
+For every one unit increase in the square footage of the lot, the predicted price of the house increases by 6.36%, holding all other variables constant.
+
+For every one unit increase in the condition rating of the house, the predicted price of the house increases by 5.20%, holding all other variables constant.
+
+For every one unit increase in the grade rating of the house, the predicted price of the house increases by 8.64%, holding all other variables constant.
+
+For every one unit increase in the square footage of living space in nearby houses, the predicted price of the house increases by 14.48%, holding all other variables constant.
+
+For every one unit increase in the age of the house at the time of sale, the predicted price of the house increases by 0.04%, holding all other variables constant.
+
+For houses with a waterfront view, the predicted price of the house increases by 43.16% compared to houses without a waterfront view, holding all other variables constant.
+
+In conclusion, the beast features in housing in King County Area are: waterfront view, square footage of the living room and the house grading.
+
+Recommendations to the  House Agent
+
+The Agency company should consider developing or advise their clients to construct homes with good ambience having waterfront view.
+The agency company should aim at constructing houses with bigger square footage as they have higher demand and value.
+The agency company should focus on developing houses with the best grades such as: Very good grade, Excellent Grade, Luxury and Mansion Houses.
